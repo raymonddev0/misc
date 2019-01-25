@@ -1,0 +1,17 @@
+{
+  "name": "ibmcloud",
+  "version": "1.0.0",
+  "description": "App in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "raymonddev0",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
